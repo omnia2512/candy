@@ -4,4 +4,4 @@ create repo
 git init 
 git add .
 git commit --m "your message"
-git pusg origin main
+git push origin main
